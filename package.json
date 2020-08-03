@@ -1,0 +1,46 @@
+{
+  "name": "wait-for-condition",
+  "version": "1.0.0",
+  "description": "Wait for condition is a simple library for protractor framework to wait for custom conditions.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": ["lib/*"],
+  "scripts": {
+    "build": "tsc",
+    "lint": "tslint -p tsconfig.json",
+    "format:check": "prettier --check 'src/*.ts'",
+    "format:write": "prettier --write 'src/*.ts'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elaichenkov/wait-for-condition.git"
+  },
+  "keywords": [
+    "protractor",
+    "expectedConditions",
+    "expected",
+    "conditions",
+    "wait",
+    "until",
+    "condition",
+    "wait",
+    "for",
+    "conditions",
+    "wait",
+    "selenium",
+    "webdriver"
+  ],
+  "author": "Yevhen Laichenkov <elaichenkov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elaichenkov/wait-for-condition/issues"
+  },
+  "homepage": "https://github.com/elaichenkov/wait-for-condition#readme",
+  "devDependencies": {
+    "prettier": "^2.0.5",
+    "protractor": "^7.0.0",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.9.7"
+  }
+}
