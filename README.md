@@ -1,1 +1,1 @@
-# Wait for condition
+# Wait for conditions
