@@ -1,7 +1,7 @@
 {
-  "name": "wait-for-condition",
+  "name": "wait-for-conditions",
   "version": "1.0.0",
-  "description": "Wait for condition is a simple library for protractor framework to wait for custom conditions.",
+  "description": "Wait for conditions is a simple library for protractor framework to wait for custom conditions.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": ["lib/*"],
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elaichenkov/wait-for-condition.git"
+    "url": "git+https://github.com/elaichenkov/wait-for-conditions.git"
   },
   "keywords": [
     "protractor",
@@ -33,9 +33,9 @@
   "author": "Yevhen Laichenkov <elaichenkov@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/elaichenkov/wait-for-condition/issues"
+    "url": "https://github.com/elaichenkov/wait-for-conditions/issues"
   },
-  "homepage": "https://github.com/elaichenkov/wait-for-condition#readme",
+  "homepage": "https://github.com/elaichenkov/wait-for-conditions#readme",
   "devDependencies": {
     "prettier": "^2.0.5",
     "protractor": "^7.0.0",

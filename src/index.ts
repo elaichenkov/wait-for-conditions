@@ -1,7 +1,7 @@
 import { ILocation, ISize } from 'selenium-webdriver';
 import { ElementFinder, ProtractorBrowser, ProtractorExpectedConditions, ElementArrayFinder } from 'protractor';
 
-export class WaitForCondition extends ProtractorExpectedConditions {
+export class WaitForConditions extends ProtractorExpectedConditions {
   constructor(public browser: ProtractorBrowser) {
     super(browser);
   }
