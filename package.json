@@ -1,6 +1,6 @@
 {
   "name": "wait-for-conditions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wait for conditions is a simple library for protractor framework to wait for custom conditions.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
