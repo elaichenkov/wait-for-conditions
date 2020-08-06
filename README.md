@@ -1,6 +1,6 @@
 # wait-for-conditions
 
-> wait-for-conditions wait-wor-conditions is a library for [Protractor](https://github.com/angular/protractor) tests that extends protractor's ExpectedConditions class with useful methods.
+> wait-for-conditions is a library for [Protractor](https://github.com/angular/protractor) tests that extends protractor's ExpectedConditions class with useful methods.
 
 ## Table of Contents
 
